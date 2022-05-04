@@ -1,5 +1,6 @@
 ### Bem-vindo ao meu perfil
 #### Desenvolvedor Full-Stack, atualmente cursando Internet das Coisas e Computação em Nuvem.
+##### Já jogou seu Só Letrando hoje? Jogue aqui: https://mendessgabriel.github.io/soletrando/
 <div>
   <a href="https://github.com/mendessgabriel">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mendessgabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
