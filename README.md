@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu perfil
 #### Desenvolvedor Full-Stack, atualmente cursando Internet das Coisas e Computação em Nuvem.
-##### Já jogou seu Só Letrando hoje? Jogue aqui: https://mendessgabriel.github.io/soletrando/
+##### Encontre aqui meu CV Digital: https://gbrmyresume.com/
   #### :man_technologist: Hard Skills: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
